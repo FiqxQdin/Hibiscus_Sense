@@ -7,10 +7,10 @@
 #include "tones.h"
 #include "FavoriotCA.h"
 
-const char ssid[] = "derictanhk18@unifi";
-const char password[] = "A287@SFERA";
-const char deviceDeveloperId[] = "Hibiscus_Sense_ESP32@fiqxqdin";
-const char deviceAccessToken[] = "1Ydpudja2l1YGz6jDnmloMBynvOckVpg";
+const char ssid[] = "YOUR_WIFI_SSID";
+const char password[] = "YOUR_WIFI_PASSWORD";
+const char deviceDeveloperId[] = "YOUR_DEVICE_DEVELOPER_ID";
+const char deviceAccessToken[] = "YOUR_DEVICE_ACCESS_TOKEN";
 const char publishTopic[] = "/v2/streams";
 const char buzzerTopic[] = "/v2/rpc";
 

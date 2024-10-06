@@ -5,4 +5,4 @@ GITHUB Tutorial Link : https://github.com/myduino/Hibiscus-Sense-Arduino
 
 Hardware : Hibiscus Sense ESP32 Arduino
 
-IoT Platform : Favoriot
+IoT Platform : Favoriot ( https://www.favoriot.com/ )

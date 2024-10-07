@@ -6,7 +6,7 @@
 
 const char ssid[] = "YOUR_WIFI_SSID";
 const char password[] = "YOUR_WIFI_PASSWORD";
-const char deviceDeveloperId[] = "OUR_DEVICE_DEVELOPER_ID";
+const char deviceDeveloperId[] = "YOUR_DEVICE_DEVELOPER_ID";
 const char deviceAccessToken[] = "YOUR_DEVICE_ACCESS_TOKEN";
 const char publishTopic[] = "/v2/streams";
 const char statusTopic[] = "/v2/streams/status";

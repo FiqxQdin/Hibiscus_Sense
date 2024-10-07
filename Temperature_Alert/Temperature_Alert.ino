@@ -68,6 +68,9 @@ void connectToFavoriotMQTT() {
 void setup() {
   Serial.begin(115200);
 
+  pinMode(2, OUTPUT); // to turn off blue led
+  digitalWrite(2, HIGH); // to turn off blue led
+
   if (!bme.begin()) {
     Serial.println("Failed to find Hibiscus Sense BME280 chip");
   }
